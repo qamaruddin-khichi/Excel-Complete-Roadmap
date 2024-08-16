@@ -2,12 +2,15 @@
 
 ## Table of Contents
 
-1. [Excel Tutorials](#excel-tutorials)
-2. [Excel Websites](#excel-websites)
+1. [Excel Introduction](#excel-introduction)
+2. [Excel Tutorials](#excel-tutorials)
+3. [Excel Websites](#excel-websites)
+4. [Conclusion](#conclusion)
+5. [Contact Details](#contact-details)
 
 ---
 
-# Microsoft Excel
+## Excel Introduction
 
 **Microsoft Excel** is a widely-used spreadsheet software that allows users to organize, analyze, and visualize data. With its versatile features and functions, Excel is a tool in data analysis, capable of handling everything from basic data entry to complex calculations and data modeling.
 
@@ -21,7 +24,7 @@
 - **Versatility:** Excel's flexibility allows analysts to work with various types of data and perform a wide range of analyses, making it indispensable for day-to-day tasks.
 - **Career Advancement:** Excel is often a prerequisite for data-related roles, and mastering it can significantly enhance an analyst's job performance and opportunities for advancement.
 
-Learning Excel is crucial for data analysts, providing them with the essential tools to efficiently manage and analyze data, leading to more informed decision-making.
+### Learning Excel is crucial for data analysts, providing them with the essential tools to efficiently manage and analyze data, leading to more informed decision-making.
 
 ---
 
@@ -52,3 +55,19 @@ Learning Excel is crucial for data analysts, providing them with the essential t
 9. [Excel Exposure](https://class.excelexposure.com/)
 10. [Excel Easy](https://www.excel-easy.com/)
 11. [My Excel Online](https://www.myexcelonline.com/)
+
+---
+
+## Conclusion
+
+Mastering Excel is an essential first step for anyone aspiring to become a data analyst. This roadmap provides a structured path from basic to advanced Excel skills, with carefully selected tutorials and resources to guide you through each stage. By following this roadmap, you'll gain the necessary expertise to handle data cleaning, analysis, and complex data manipulation tasks within Excel, which are crucial for any data analytics role. The included projects and additional resources ensure that you not only learn the concepts but also apply them practically, helping you build confidence in your Excel skills.
+
+This roadmap is designed to be accessible and comprehensive, allowing you to learn at your own pace without the need for expensive courses. By the end of this journey, you'll have a solid foundation in Excel, making you well-prepared for more advanced data analysis tools and techniques. Whether you're just starting out or looking to refine your skills, this guide will help you become proficient in Excel, opening doors to numerous opportunities in the field of data analytics.
+
+---
+
+## Contact Details
+
+**Call:** +92-318-815444-1  
+**Email:** qamaruddinkhichi123@gmail.com  
+**LinkedIn:** [linkedin.com/in/qamaruddin-khichi/](https://www.linkedin.com/in/qamaruddin-khichi/)
